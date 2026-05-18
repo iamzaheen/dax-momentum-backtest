@@ -100,4 +100,5 @@ Running `performance.py` produces `performance_report.png` containing:
 
 Syed Mohammad Zaheen  
 MSc Quantitative Finance  
-GitHub: [iamzaheen](https://github.com/iamzaheen)
+LinkedIn: [iamzaheen](https://linkedin.com/in/iamzaheen)
+GitHub: [iamzaheen](https://github.com/iamzaheen) 
